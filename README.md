@@ -5,4 +5,4 @@
  :sparkling_heart: I am willing to work on free-lance projects and love to contribute to open source projects.
                   
 
-[![Fauziyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fauziyaa)](https://github.com/Fauziyaa/github-readme-stats)
+[![Fauziyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fauziyaa&show_icons=true&theme=radical)](https://github.com/Fauziyaa/github-readme-stats)
